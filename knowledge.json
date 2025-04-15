@@ -1,0 +1,54 @@
+{
+  "Blade Runner 2049, cyberpunk": {
+    "description": "A futuristic aesthetic with neon lights and a dark, moody atmosphere.",
+    "prompt": "Futuristic neon cityscape at night, dense fog, flying cars, towering skyscrapers, cyberpunk style, inspired by Blade Runner 2049. Dark, moody atmosphere with glowing advertisements and rain-soaked streets."
+  },
+  "Terrence Malick, dreamlike cinematography": {
+    "description": "Natural landscapes with warm light and floating camera movements for a dreamy tone.",
+    "prompt": "Dreamlike natural landscape at golden hour, soft and warm lighting, tall grass fields swaying in the wind, wide-angle cinematic composition, contemplative and poetic atmosphere."
+  },
+  "Studio Ghibli, magical realism": {
+    "description": "Vibrant colors, lush nature, and a magical, whimsical atmosphere.",
+    "prompt": "Magical, lush green landscape with whimsical creatures, flying spirits, and a cozy village. Soft lighting, vibrant colors, and a sense of wonder and serenity in a fantastical world."
+  },
+  "Latin American magical realism": {
+    "description": "Everyday settings blended with supernatural and magical elements.",
+    "prompt": "Vibrant Latin American village surrounded by magical elements, lush tropical vegetation, floating lights, and mythical creatures. Warm colors, traditional colonial architecture, and a sense of enchantment and folklore."
+  },
+  "Andrei Tarkovsky, slow and contemplative": {
+    "description": "Long, meditative shots in natural or ruined environments.",
+    "prompt": "Melancholic, contemplative landscape with a lone figure standing near a reflective water surface, muted colors, foggy atmosphere, slow cinematic composition, poetic and minimalistic, inspired by Soviet-era art films."
+  },
+  "Wes Anderson, symmetrical and colorful": {
+    "description": "Symmetrical compositions, pastel color palette, and retro aesthetics.",
+    "prompt": "Symmetrical, pastel-colored room interior, retro vintage design, centered objects, cinematic composition, soft light. Balanced framing, with whimsical decor and charming details, in a warm and inviting palette."
+  },
+  "Dystopian futurism": {
+    "description": "Dark environments, brutalist architecture, and a sense of technological decay.",
+    "prompt": "Brutalist architecture, dystopian future city, dark and decayed structures, heavy smog, cold industrial colors. Empty streets, oppressive atmosphere, and decaying technology. Cinematic dystopian futurism."
+  },
+  "Japanese minimalism": {
+    "description": "Simplicity, empty spaces, and balanced nature.",
+    "prompt": "Minimalist Japanese interior, tatami mats, clean lines, neutral tones, peaceful and spacious environment. Traditional Japanese architectural elements and natural lighting."
+  },
+  "German expressionism, harsh shadows and unsettling atmosphere": {
+    "description": "Extreme contrasts, dramatic shadows, and distorted scenery.",
+    "prompt": "Surreal urban landscape with distorted buildings, harsh shadows, dramatic lighting, eerie mood, black and white. Inspired by German expressionist cinema."
+  },
+  "Italian neorealism, natural light and urban settings": {
+    "description": "Real urban environments, use of natural light, and everyday characters.",
+    "prompt": "Post-war Italian urban street scene, black and white photography style, natural lighting, ordinary people interacting, vintage bicycles, cobblestone streets, realistic and raw atmosphere inspired by Italian neorealism cinema."
+  },
+  "Film Noir, high contrast and dark aesthetics": {
+    "description": "Intense shadows, decadent urban environments, and mystery.",
+    "prompt": "Dark urban alley, black and white, high contrast shadows, vintage cars, foggy atmosphere, cinematic 1940s noir style. Moody lighting, dramatic composition, mystery and suspense."
+  },
+  "80s Sci-Fi, neon and vaporwave": {
+    "description": "Retro technology, neon lights, constant fog, and synthwave aesthetics.",
+    "prompt": "Futuristic neon cityscape at night, retro synthwave style, glowing signs, vaporwave aesthetics, purple and pink hues, 1980s sci-fi inspired design. High contrast, cyberpunk vibes, fog and reflections on wet surfaces."
+  },
+  "Abstract visual poetry": {
+    "description": "Abstract shapes, fluid colors, and poetic movement without linear narrative.",
+    "prompt": "Abstract visual poetry, flowing shapes and soft gradients, pastel colors blending together, dreamlike atmosphere, ethereal textures, no concrete objects, pure emotion and movement expressed through abstract art."
+  }
+}
